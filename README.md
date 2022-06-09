@@ -1,5 +1,3 @@
-## Here Shows List of My Data Analyst Project 
-
 # Project 1: Google Data Analytic Case Study 1
 
 
