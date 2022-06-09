@@ -9,6 +9,8 @@ by Abang Mohamad Nadzmi Bin Abang Adrus
 ## The Data
 
 
+## The Six Important Steps
+
 ## Phase 1: ASK
 
 
